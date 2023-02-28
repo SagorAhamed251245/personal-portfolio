@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap');
 *{
     margin: 0;
     padding: 0;
+
 }
 body{
     background-color: #10101A;
@@ -9,4 +12,23 @@ body{
     
     
 
+}
+.color-pri{
+    color:#C4C4C4
+}
+
+.bg-primary{
+    background-color: #1D1D29;
+    
+}
+.font-family-1{
+    font-family: 'Tilt Warp', cursive;
+}
+.font-family-2{
+    font-family: 'Oswald', sans-serif;
+}
+.gradients{
+ color: linear-gradient(to right, rgb(134, 239, 172), rgb(59, 130, 246), rgb(147, 51, 234));
+ background-blend-mode: overlay;
+ 
 }
